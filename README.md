@@ -1,8 +1,8 @@
-### ant desing pro
+### ant design pro
 
-ant desing pro 里的 landing page. 
+ant design landing page. 
 
-脚手架使用的是： [antd-init](https://github.com/ant-design/antd-init);
+[antd-init] (https://github.com/ant-design/antd-init);
 
 ## preview
 
@@ -16,7 +16,7 @@ https://ant-motion.github.io/ant-design-pro-landing-page/
 $ npm i 
 ```
 
-## Development
+## development
 
 ```
 $ npm start
